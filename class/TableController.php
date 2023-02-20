@@ -1,6 +1,6 @@
 <?php
 
-class TableController extends JsonTable {
+class TableController extends JSONTable {
     /**
      * @param array|\JsonMachine\Items $data
      * @param int|string $search_id
